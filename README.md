@@ -11,7 +11,7 @@ Find latest AI Dev Product, Framework, LLMs, Tools releases
 
 ### Index 
 
-* [Coding-AI Dev Release](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
+* [Coding-AI Dev Release](https://ainews.sh/functions/socialShare?id=698e6aa0f7cc046940580e8c&type=product)
 
 
 ---
