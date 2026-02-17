@@ -32,7 +32,13 @@ Find latest AI Dev Product, Framework, LLMs, Tools releases
 ▶ [GLM-5](https://ainews.sh/functions/socialShare?id=698d489df7f139190ea626b0&type=product)
 ▶ [Obsidian CLI](https://ainews.sh/functions/socialShare?id=698bfbed399d7fa3c247134b&type=product)
 ▶ [GPT-5.3-Codex](https://ainews.sh/functions/socialShare?id=6984e69f0feedb50ef08370c&type=product)
+▶ [VibeTensor](https://ainews.sh/functions/socialShare?id=698434d84535fc58fa8abf48&type=product)
 
+▶ [January 2026 Releases]
+▶ [Conductor](https://ainews.sh/functions/socialShare?id=69811628fb116ff258343af4&type=product)
+▶ [Letta Code SDK](https://ainews.sh/functions/socialShare?id=697a7e96c0c68ce2ebf09661&type=product)
+▶ [Daggr](https://ainews.sh/functions/socialShare?id=697d2562326128d4fd9b7ab0&type=product)
+▶ [Qwen3-Max-Thinking](https://ainews.sh/functions/socialShare?id=697ac2f22b2e09ba15124e9b&type=product)
 
 
 
