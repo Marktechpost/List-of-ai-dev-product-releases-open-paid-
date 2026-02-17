@@ -39,6 +39,11 @@ Find latest AI Dev Product, Framework, LLMs, Tools releases
 ▶ [Letta Code SDK](https://ainews.sh/functions/socialShare?id=697a7e96c0c68ce2ebf09661&type=product)
 ▶ [Daggr](https://ainews.sh/functions/socialShare?id=697d2562326128d4fd9b7ab0&type=product)
 ▶ [Qwen3-Max-Thinking](https://ainews.sh/functions/socialShare?id=697ac2f22b2e09ba15124e9b&type=product)
+▶ [Mistral Vibe 2.0](https://ainews.sh/functions/socialShare?id=697a79c1c7e24f27d34333f0&type=product)
+▶ [GitHub Copilot SDK](https://ainews.sh/functions/socialShare?id=6973f9e538478f25af743481&type=product)
+▶ [GLM-4.7](https://ainews.sh/functions/socialShare?id=696df9249de986e8effcd36e&type=product)
+▶ [Sweep Next-Edit 1.5B](https://ainews.sh/functions/socialShare?id=6971c99962360771e9daeed4&type=product)
+▶ [NousCoder-14B](https://ainews.sh/functions/socialShare?id=696d8df20ba62ac538ec6db6&type=product)
 
 
 
