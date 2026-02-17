@@ -5,10 +5,6 @@ Find latest AI Dev Product, Framework, LLMs, Tools releases
 🤝 Show your support - give a ⭐️ if you liked the content
 
 
-
-
-# List-of-ai-dev-product-releases
-
 ### Index 
 
 * [Coding-AI Dev Release](https://ainews.sh/functions/socialShare?id=698e6aa0f7cc046940580e8c&type=product)
