@@ -27,6 +27,17 @@ Find latest AI Dev Product, Framework, LLMs, Tools releases
 ▶ [Ring-2.5-1T](https://ainews.sh/functions/socialShare?id=698e6aa0f7cc046940580e8c&type=product)
 ▶ [GPT-5.3-Codex-Spark](https://ainews.sh/functions/socialShare?id=698e6a007245e636ddbb5f45&type=product)
 ▶ [MiniMax M2.5](https://ainews.sh/functions/socialShare?id=698e659e64ea1c888a5b1801&type=product)
+▶ [Nanbeige4.1-3B](https://ainews.sh/functions/socialShare?id=698d4ce5e3fe1d838b6a93b1&type=product)
+▶ [Ming-flash-omni 2.0](https://ainews.sh/functions/socialShare?id=698d4b3ce6c817086a8a5b17&type=product)
+▶ [GLM-5](https://ainews.sh/functions/socialShare?id=698d489df7f139190ea626b0&type=product)
+▶ [Obsidian CLI](https://ainews.sh/functions/socialShare?id=698bfbed399d7fa3c247134b&type=product)
+▶ [GPT-5.3-Codex](https://ainews.sh/functions/socialShare?id=6984e69f0feedb50ef08370c&type=product)
+
+
+
+
+
+
 
 
 
